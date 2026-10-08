@@ -154,11 +154,7 @@ Sol üst köşe (0, 0)'dır. **x sağa doğru, y aşağı doğru artar.** Ekran 
 
 ---
 
-## Bitirince
 
-1. Bütün görevler bitmiş ve program hatasız çalışıyor olmalı.
-2. **G** tuşuyla gece moduna geçin ve sahnenizin ekran görüntüsünü alın.
-3. Ekran görüntüsünü öğretmeninize gösterin ya da gönderin.
 
 ---
 
